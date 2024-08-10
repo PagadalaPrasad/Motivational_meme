@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster{
+    margin-top: 70px;
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 25%;
+    height: 250px;
+    text-align: center;
+}
+
+.centre{
+    border: 5px solid white;
+    width: 100%;
+    height: auto;
+}
